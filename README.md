@@ -67,3 +67,12 @@ Si ejecutas sin Maven, necesitas el [SDK de JavaFX](https://openjfx.io/) y añad
 1. Al abrir la aplicación se muestra la lista de habitaciones.
 2. Escribe un número de habitación (por ejemplo `205`) en el campo de texto.
 3. Pulsa **BUSCAR** para ver si está disponible u ocupada.
+
+## Ejecución
+<img width="586" height="599" alt="image" src="https://github.com/user-attachments/assets/42eb78ea-d3f0-42af-baea-63f76f038264" />
+Con habitación libre
+
+<img width="581" height="596" alt="image" src="https://github.com/user-attachments/assets/449f3118-0f9d-4cc7-b022-2726afd85bbe" />
+Con habitación ocupada
+
+
